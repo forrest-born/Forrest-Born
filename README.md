@@ -15,17 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently working on learning:
-        GitHub
-        Scripting Languages
-            1. Powershell Scripting
-            2. Shell Scripting
-            3. Perl Scripting
-        Programming Languages
-            1. Python
-            2. C
-            3. C++
-            4. Fortran
-            5. VB (Refresh)
+    -    GitHub
+    -    Scripting Languages
+        -    1. Powershell Scripting
+        -    2. Shell Scripting
+        -    3. Perl Scripting
+    -    Programming Languages
+        -    1. Python
+        -    2. C
+        -    3. C++
+        -    4. Fortran
+        -    5. VB (Refresh)
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
