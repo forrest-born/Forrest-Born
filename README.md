@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently working on learning:
+### 🌱 I’m currently working on learning:
     1. GitHub
     2. Scripting Languages
         1. Powershell Scripting
