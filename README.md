@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: You/Your
 - 📫 How to reach me: 
     1. LinkedIn: https://www.linkedin.com/in/forrest-born/
-    2. E-mail: fborn2190@gmail.com
+    2. E-mail: fborn2190+GitHub@gmail.com
 - 🔭 I’m currently working on:
     1. freeCodeCamp
     2. AdventOfCode
