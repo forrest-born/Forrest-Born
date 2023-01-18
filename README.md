@@ -30,11 +30,12 @@ Here are some ideas to get you started:
     - [ ] 3. Powershell Scripting  
     - [ ] 4. Perl Scripting  
 3. Programming Languages (Compiler Languages)  
-    - [ ] 1. C  
-    - [ ] 2. C++  
-    - [ ] 3. Fortran  
-    - [ ] 4. VB.net (Refresh knowlege gained in College)
-    - [ ] 5. VB (Update knowledge gained from VB.net)
+    - [ ] 1. Ada
+    - [ ] 2. C  
+    - [ ] 3. C++  
+    - [ ] 4. Fortran
+    - [ ] 5. VB.net (Refresh knowlege gained in College)
+    - [ ] 6. VB (Update knowledge gained from VB.net)
 4. Web Development Languages
     - [X] 1. HTML
     - [ ] 2. HTML5 (Update knowlege gained from learning HTML)
